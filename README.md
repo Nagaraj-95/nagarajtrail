@@ -1,3 +1,3 @@
 # nagarajtrail
 This is my git first repository
-Author- Nagaraj
+Author- Nagaraj first trail
